@@ -90,3 +90,5 @@ python manage.py runserver
 ## License
 
 MIT License
+
+Copyright (c) 2025 Kiptoo Rotich
